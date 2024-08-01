@@ -19,11 +19,11 @@
 //     }
 //   }
 
-const colors = ['red', 'green', 'blue'];
-const shapes = ['circle', 'square', 'triangle'];
+// const colors = ['red', 'green', 'blue'];
+// const shapes = ['circle', 'square', 'triangle'];
 
-for (let i = 0; i < colors.length; i++) {
-  for (let j = 0; j < shapes.length; j++) {
-    console.log(`${colors[i]} ${shapes[j]}`);
-  }
-}
+// for (let i = 0; i < colors.length; i++) {
+//   for (let j = 0; j < shapes.length; j++) {
+//     console.log(`${colors[i]} ${shapes[j]}`);
+//   }
+// }
